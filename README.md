@@ -12,6 +12,9 @@ As initial catalog input, use json-file of form
 }]
 ```
 
+## Note
+The catalog is not stored in any way. Just refresh the page and you can start exploring again from zero.
+
 ## Learn More
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
